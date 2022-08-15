@@ -1,4 +1,3 @@
-from msilib.schema import tables
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -18,11 +17,12 @@ username = driver.find_element(By.ID,"login")
 password = driver.find_element(By.ID,"password")
 username.send_keys("i.benabdallah@gexpertise.fr")
 password.send_keys("i$XnRR6H*l8d")
-sleep(3)
+
 # getting the button by class name
-#button = driver.find_element((By.XPATH, ".//div/main/div[@class='oe_website_login_container']/form[@class='oe_login_form']/div[4]/button[@class='btn btn-primary btn-block']"))
+#button = driver.find_element((By.XPATH, ".//div[@id='wrapwrap']/main/div[@class='oe_website_login_container']/form[@class='oe_login_form']/div[@class='clearfix oe_login_buttons text-center mb-1 pt-3']/button[@class='btn btn-primary btn-block']"))
+button1 = driver.find_element(By.XPATH,'//button[@type="submit"]').click()
 # clicking on the button
-#button.click()
+#button1.click()
 
 print("time out")
     # Do some stuff
