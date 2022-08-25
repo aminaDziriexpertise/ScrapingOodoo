@@ -8,7 +8,7 @@ from random import random
 import numpy as np
 import json
 import requests
-from scrapping_odoo import ID,nom_livrable,Nom__du__client,address,Cree__par,Cree__le
+from scrapping_odoo import ID,nom_livrable,Nom__du__client,address,Cree__par,Cree__le,visa_rendu,cadastre,Mission1,Mission2,Mission3,Full_address,Num_Arch,Num_Dossier
 
 def main():
      acad = ZwCAD()
@@ -58,6 +58,13 @@ def main():
       p.Color = 0
       return p 
 
+     def plotCadastre():
+      p= APoint(1653946.9265,8210369.6057,0.00)
+      p = acad.model.AddText(cadastre, p, 0.8)
+      p.Color = 0
+      return p 
+
+    
 
 
 
@@ -93,6 +100,24 @@ def main():
         p = acad.model.AddText(ID)
         return(p)
 
+     def plotNum_dossier():
+      p= APoint(1653959.8108,8210310.2712,0.00)
+      p = acad.model.AddText(Num_Dossier, p, 0.8)
+      p.Color = 0
+      return p 
+
+     def plotNum_Archive():
+      p= APoint(1653956.4456,8210309.0623,0.00)
+      p = acad.model.AddText(Num_Arch, p, 0.8)
+      p.Color = 0
+      return p
+
+     def plotVisa():
+      p= APoint(1653957.5237,8210308.2782,0.00)
+      p = acad.model.AddText(Num_Arch, p, 0.8)
+      p.Color = 0
+      return p
+
 
    #  ________________________EXTRACT all TEXT _______________________________
      for text in acad.iter_objects('Text'): # extraire data de type text
@@ -104,10 +129,14 @@ def main():
    
    
      #acad.app.ZoomExtents()
-     plotLivrable()
-     plotAddress()
-     plotDate_RESP()
-     plotNote()
+     #plotLivrable()
+     #plotAddress()
+     #plotDate_RESP()
+     #plotNote()
+     plotCadastre()
+     plotNum_Archive()
+     plotNum_dossier()
+     plotVisa()
 
      print ("DONE" )
 

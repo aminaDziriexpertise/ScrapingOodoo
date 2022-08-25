@@ -1,4 +1,5 @@
 from time import sleep
+from unittest import result
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -73,7 +74,7 @@ element2 = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, ".//div[3]/div/div/div/div[2]/table/tbody/tr/td[2]/div/div/p/span[4]"))
     )
 Num_Dossier= element2.get_attribute("innerHTML")
-TEXT = Num_Dossier.replace('<br>', '').replace('&nbsp;', '')
+TEXT = Num_Dossier.replace('<br>', '').replace('&nbsp;', '').replace('&amp;', '')
 print(TEXT)
 
 #**********************N° Arch**********************
@@ -150,10 +151,29 @@ element3 = WebDriverWait(driver, 10).until(
 Cree__le= element3.get_attribute("innerHTML")
 print('Cree__le',Cree__le)
 
+#**********************Cadastre*********************
+element2 = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, ".//div[3]/div/div/div/div[2]/table/tbody/tr/td[2]/div/div/p/span[24]"))
+    )
+cadastre= element2.get_attribute("innerHTML")
+cadastre = cadastre.replace('<br>', '').replace('&nbsp;', '').replace('&amp;', '')
+print(cadastre)
+
+#**********************Visa Rendu*********************
+element2 = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, ".//div[3]/div/div/div/div[2]/table/tbody/tr/td[2]/div/div/p/span[59]"))
+    )
+visa_rendu= element2.get_attribute("innerHTML")
+visa_rendu = visa_rendu.replace('<br>', '').replace('&nbsp;', '').replace('&amp;', '').replace('<span>;', '').replace('</span>;', '')
+print(visa_rendu)
+
+
+
 
 
 def return_data():
-    result=(ID,nom_livrable,Nom__du__client,address,Cree__par,Cree__le)
+    result=(ID,nom_livrable,Nom__du__client,address,Cree__par,Cree__le,visa_rendu,cadastre,Mission1,Mission2,Mission3,Full_address,Num_Arch,Num_Dossier)
+
     
     return result
 

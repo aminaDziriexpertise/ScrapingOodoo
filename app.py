@@ -1,7 +1,7 @@
 from this import d
 import requests
 import json
-from scrapping_odoo import nom_livrable,Nom__du__client,address,Cree__par,Cree__le
+from scrapping_odoo import nom_livrable,Nom__du__client,address,Cree__par,Cree__le,visa_rendu,cadastre,Mission1,Mission2,Mission3,Full_address,Num_Arch,Num_Dossier
 from flask import Flask,jsonify,request,make_response,url_for,redirect
 import requests, json
 from scrapping_odoo import return_data
@@ -49,7 +49,7 @@ def get_Cree__le():
 
 @app.route('/', methods=['GET','POST'])
 def resultat():
-        return  '{} {} {} {} {}'.format(nom_livrable, address, Nom__du__client,Cree__par,Cree__le)
+        return  '{} {} {} {} {} {} {} {} {}'.format(nom_livrable, address, Nom__du__client,Cree__par,Cree__le,Num_Dossier,Num_Arch,visa_rendu,cadastre)
 
 #def parse_request():
  #     nom_livrable = request.args.get('nom_livrable')

@@ -1,0 +1,498 @@
+1660921628221	geckodriver	INFO	Listening on 127.0.0.1:49972
+1660921670552	geckodriver	INFO	Listening on 127.0.0.1:49989
+1660921830794	geckodriver	INFO	Listening on 127.0.0.1:50137
+1660921833885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileTDBAu5"
+1660921834125	Marionette	INFO	Marionette enabled
+1660921834129	Marionette	INFO	Listening on port 50147
+Read port: 50147
+WebDriver BiDi listening on ws://localhost:50138
+1660921834225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileTDBAu5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50138/devtools/browser/692d9736-cebf-4d55-9c0d-68e3be3e3daa
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1660921851051	Marionette	INFO	Stopped listening on port 50147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660921980022	geckodriver	INFO	Listening on 127.0.0.1:50232
+1660921983090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileMQoq5H"
+1660921983340	Marionette	INFO	Marionette enabled
+1660921983343	Marionette	INFO	Listening on port 50242
+WebDriver BiDi listening on ws://localhost:50233
+Read port: 50242
+1660921983536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileMQoq5H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50233/devtools/browser/98a98e69-6784-441d-8ac0-1474bfb68116
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1660922008201	Marionette	INFO	Stopped listening on port 50242
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660922036307	geckodriver	INFO	Listening on 127.0.0.1:50303
+1660922039352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileg3CYgQ"
+1660922039576	Marionette	INFO	Marionette enabled
+1660922039579	Marionette	INFO	Listening on port 50313
+WebDriver BiDi listening on ws://localhost:50304
+Read port: 50313
+1660922039773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileg3CYgQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50304/devtools/browser/fce4a2ab-ab69-46ff-b26f-75003834380d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1660922469783	Marionette	INFO	Stopped listening on port 50313
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileXlkvru"
+1660922054359	Marionette	INFO	Marionette enabled
+1660922054363	Marionette	INFO	Listening on port 50369
+WebDriver BiDi listening on ws://localhost:50360
+Read port: 50369
+1660922054453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileXlkvru\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50360/devtools/browser/9b5205a7-16d7-4c2e-aa90-9bad624ce024
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1660922471329	Marionette	INFO	Stopped listening on port 50369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilezf4RGp"
+1660922110238	Marionette	INFO	Marionette enabled
+1660922110241	Marionette	INFO	Listening on port 50438
+WebDriver BiDi listening on ws://localhost:50429
+Read port: 50438
+1660922110331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilezf4RGp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50429/devtools/browser/ff42c561-f771-466d-9815-b8afcd8fbdb3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://odoo-r7.gexpertise.fr"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1660922425426	Marionette	INFO	Stopped listening on port 50438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661423096010	geckodriver	INFO	Listening on 127.0.0.1:60999
+1661423099083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile1VW9V2"
+1661423099354	Marionette	INFO	Marionette enabled
+1661423099358	Marionette	INFO	Listening on port 61009
+WebDriver BiDi listening on ws://localhost:61000
+Read port: 61009
+1661423099534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile1VW9V2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61000/devtools/browser/8f917630-0d63-433f-8be4-dd184c504a38
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 23JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661427000136	Marionette	INFO	Stopped listening on port 61817
+evToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661426532328	Marionette	INFO	Stopped listening on port 61009
+p\\rust_mozprofile09FVK8"
+1661426430602	Marionette	INFO	Marionette enabled
+1661426430605	Marionette	INFO	Listening on port 61952
+Read port: 61952
+WebDriver BiDi listening on ws://localhost:61943
+1661426430704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile09FVK8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61943/devtools/browser/07681189-c354-4168-a59e-6de6e22359f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661427000131	Marionette	INFO	Stopped listening on port 61952
+p\\rust_mozprofileAIhEa8"
+1661426758667	Marionette	INFO	Marionette enabled
+1661426758671	Marionette	INFO	Listening on port 62132
+WebDriver BiDi listening on ws://localhost:62122
+Read port: 62132
+1661426758870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileAIhEa8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62122/devtools/browser/e3c4fafa-a858-47c5-97d3-b5fe34a36125
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661426815735	Marionette	INFO	Stopped listening on port 62132
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilejRHT9m"
+1661426815672	Marionette	INFO	Marionette enabled
+1661426815677	Marionette	INFO	Listening on port 62206
+WebDriver BiDi listening on ws://localhost:62197
+Read port: 62206
+1661426815855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilejRHT9m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62197/devtools/browser/7848677b-d34a-462a-8ae2-d8e96debda17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661427000136	Marionette	INFO	Stopped listening on port 62206
+1426917170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile6Pa2rU"
+1661426917400	Marionette	INFO	Marionette enabled
+1661426917403	Marionette	INFO	Listening on port 62305
+Read port: 62305
+WebDriver BiDi listening on ws://localhost:62296
+1661426917501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile6Pa2rU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62296/devtools/browser/1f9df86e-e198-40a8-8b52-cc47a0138adf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661427000042	Marionette	INFO	Stopped listening on port 62305
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileo9mZfK"
+1661426945655	Marionette	INFO	Marionette enabled
+1661426945659	Marionette	INFO	Listening on port 62373
+Read port: 62373
+WebDriver BiDi listening on ws://localhost:62361
+1661426945768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileo9mZfK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62361/devtools/browser/67eeda6b-f890-4709-8857-8a7685998671
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661427000040	Marionette	INFO	Stopped listening on port 62373
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661427006011	geckodriver	INFO	Listening on 127.0.0.1:62445
+1661427009105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileDpIwXA"
+1661427009346	Marionette	INFO	Marionette enabled
+1661427009349	Marionette	INFO	Listening on port 62455
+WebDriver BiDi listening on ws://localhost:62446
+Read port: 62455
+1661427009550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileDpIwXA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62446/devtools/browser/540b453f-2adc-489d-8ed0-45d0998185a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661429814046	geckodriver	INFO	Listening on 127.0.0.1:63588
+1661429817113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofiledSK6ZD"
+1661429817351	Marionette	INFO	Marionette enabled
+1661429817354	Marionette	INFO	Listening on port 63599
+WebDriver BiDi listening on ws://localhost:63589
+Read port: 63599
+1661429817560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofiledSK6ZD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63589/devtools/browser/8bedbb72-7379-4883-b379-6c1ba19e5719
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661429964287	geckodriver	INFO	Listening on 127.0.0.1:63673
+1661429967384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileLtXLUX"
+1661429967617	Marionette	INFO	Marionette enabled
+1661429967621	Marionette	INFO	Listening on port 63683
+WebDriver BiDi listening on ws://localhost:63674
+Read port: 63683
+1661429967827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileLtXLUX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63674/devtools/browser/d402ab56-27ab-4e12-bcce-8cca4d3158ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661430077347	geckodriver	INFO	Listening on 127.0.0.1:63768
+1661430080424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilerClotd"
+1661430080656	Marionette	INFO	Marionette enabled
+1661430080659	Marionette	INFO	Listening on port 63778
+WebDriver BiDi listening on ws://localhost:63769
+Read port: 63778
+1661430080867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilerClotd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63769/devtools/browser/cd4762ea-57cb-438f-95c8-efef1b1d077a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661430092418	geckodriver	INFO	Listening on 127.0.0.1:63827
+1661430095501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilejrj7Pi"
+1661430095732	Marionette	INFO	Marionette enabled
+1661430095735	Marionette	INFO	Listening on port 63837
+WebDriver BiDi listening on ws://localhost:63828
+Read port: 63837
+1661430095938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilejrj7Pi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63828/devtools/browser/7ceb84f5-f553-4800-a8ba-9fa1eb224c03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661430256044	geckodriver	INFO	Listening on 127.0.0.1:64019
+1661430263143	geckodriver	INFO	Listening on 127.0.0.1:64028
+1661430266228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile7nlxCQ"
+1661430266472	Marionette	INFO	Marionette enabled
+1661430266475	Marionette	INFO	Listening on port 64038
+WebDriver BiDi listening on ws://localhost:64029
+Read port: 64038
+1661430266675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile7nlxCQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64029/devtools/browser/8df9ef96-589d-4c97-958c-1d117b6f01ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661430305660	Marionette	INFO	Stopped listening on port 64038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileqozexp"
+1661430280889	Marionette	INFO	Marionette enabled
+1661430280893	Marionette	INFO	Listening on port 64099
+WebDriver BiDi listening on ws://localhost:64090
+Read port: 64099
+1661430281106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileqozexp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64090/devtools/browser/a9203056-2591-44b2-9b80-4c063757dcf8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661430304913	Marionette	INFO	Stopped listening on port 64099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661431010715	geckodriver	INFO	Listening on 127.0.0.1:64273
+1661431013771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilei8UV8d"
+1661431014032	Marionette	INFO	Marionette enabled
+1661431014035	Marionette	INFO	Listening on port 64283
+WebDriver BiDi listening on ws://localhost:64274
+Read port: 64283
+1661431014210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilei8UV8d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64274/devtools/browser/07734d7c-aa39-4310-b433-52e183a264a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1-e4b0-4790-9faf-1b6bec777b82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64466
+1661431352236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileTz78dt"
+1661431352475	Marionette	INFO	Marionette enabled
+1661431352478	Marionette	INFO	Listening on port 64476
+WebDriver BiDi listening on ws://localhost:64467
+Read port: 64476
+1661431352665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileTz78dt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64467/devtools/browser/61006a9e-d898-4836-a766-6a6f6641908a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+6-ba77-4a14-96c4-e5dfeba0a256
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661431677503	geckodriver	INFO	Listening on 127.0.0.1:64699
+1661431680559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile0nfBMn"
+1661431680789	Marionette	INFO	Marionette enabled
+1661431680793	Marionette	INFO	Listening on port 64709
+WebDriver BiDi listening on ws://localhost:64700
+Read port: 64709
+1661431680998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile0nfBMn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64700/devtools/browser/6c1f6901-f5b8-4087-a0f2-0b751fb8f104
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661431845153	geckodriver	INFO	Listening on 127.0.0.1:64829
+1661431848206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilev6Iyg4"
+1661431848463	Marionette	INFO	Marionette enabled
+1661431848467	Marionette	INFO	Listening on port 64853
+WebDriver BiDi listening on ws://localhost:64830
+Read port: 64853
+1661431848613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilev6Iyg4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64830/devtools/browser/422bbdfe-8b32-43ec-a95e-b4c28304bbeb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+6-e0db-404e-a168-e67c48fddff7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661431896378	Marionette	INFO	Stopped listening on port 64876
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661431977899	geckodriver	INFO	Listening on 127.0.0.1:64963
+1661431980978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileRckmiX"
+1661431981217	Marionette	INFO	Marionette enabled
+1661431981221	Marionette	INFO	Listening on port 64974
+WebDriver BiDi listening on ws://localhost:64964
+Read port: 64974
+1661431981423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileRckmiX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64964/devtools/browser/a423eb88-7f0e-4776-a986-5233d1a2f9d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661433770787	Marionette	INFO	Stopped listening on port 64974
+C:\\P1661432199618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilerPKl6p"
+1661432199853	Marionette	INFO	Marionette enabled
+1661432199857	Marionette	INFO	Listening on port 65145
+WebDriver BiDi listening on ws://localhost:65127
+Read port: 65145
+1661432200074	RemoteAgent	WAconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofiley6QCZk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65119/devtools/browser/bd3a56fd-2f30-466e-b26e-bd88fce3f2cb
+console.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to JavaScript warning: https://odoo-r7.gexpertise.fr/web/contenJavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backJavaScript warning: https://odoo-r7.gexpertise.fr/web/contenJavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+tement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661433770787	Marionette	INFO	Stopped listening on port 65145
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilebdciKP"
+1661432292528	Marionette	INFO	Marionette enabled
+1661432292532	Marionette	INFO	Listening on port 65259
+WebDriver BiDi listening on ws://localhost:65248
+Read port: 65259
+1661432292746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilebdciKP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65248/devtools/browser/4e8c58b4-529a-4243-9b49-b5e881e0d20f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+7-d5fb-4b24-b19b-b9e431e326b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661433770735	Marionette	INFO	Stopped listening on port 65276
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileJ5ynS7"
+1661433020305	Marionette	INFO	Marionette enabled
+1661433020309	Marionette	INFO	Listening on port 49684
+WebDriver BiDi listening on ws://localhost:49673
+Read port: 49684
+1661433020491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofileJ5ynS7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49673/devtools/browser/a1b227a9-e4f1-4c9d-86a8-5f4f20709157
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661433026879	Marionette	INFO	Stopped listening on port 49684
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661433087304	geckodriver	INFO	Listening on 127.0.0.1:49759
+1661433090374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile3cz8u6"
+1661433090609	Marionette	INFO	Marionette enabled
+1661433090612	Marionette	INFO	Listening on port 49771
+WebDriver BiDi listening on ws://localhost:49760
+Read port: 49771
+1661433090816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile3cz8u6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49760/devtools/browser/11e85108-9718-4e92-9e79-9f604ad8ac6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661433770754	Marionette	INFO	Stopped listening on port 49771
+1433704480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilenJjUGz"
+1661433704714	Marionette	INFO	Marionette enabled
+1661433704717	Marionette	INFO	Listening on port 50180
+Read port: 50180
+WebDriver BiDi listening on ws://localhost:50170
+1661433704824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilenJjUGz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50170/devtools/browser/f469895e-f2ef-496a-8a46-6bc687f1a66c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661433770723	Marionette	INFO	Stopped listening on port 50180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661433813772	geckodriver	INFO	Listening on 127.0.0.1:50276
+1661433816843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile1sXP28"
+1661433817090	Marionette	INFO	Marionette enabled
+1661433817093	Marionette	INFO	Listening on port 50287
+WebDriver BiDi listening on ws://localhost:50277
+Read port: 50287
+1661433817302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofile1sXP28\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50277/devtools/browser/4522043c-4818-4dda-bdf5-f8466892d30c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661434046622	Marionette	INFO	Stopped listening on port 50287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilewLcvh5"
+1661433831593	Marionette	INFO	Marionette enabled
+1661433831596	Marionette	INFO	Listening on port 50348
+WebDriver BiDi listening on ws://localhost:50339
+Read port: 50348
+1661433831799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilewLcvh5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50339/devtools/browser/841564b0-bf57-4436-8e51-fee90c0e5cb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+1661434045252	Marionette	INFO	Stopped listening on port 50348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilel42bwH"
+1661433881336	Marionette	INFO	Marionette enabled
+1661433881339	Marionette	INFO	Listening on port 50419
+WebDriver BiDi listening on ws://localhost:50409
+Read port: 50419
+1661433881540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilel42bwH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50409/devtools/browser/548a5ff8-08fc-4352-89c5-b4a7fc48eed0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://odoo-r7.gexpertise.fr."
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript warning: https://odoo-r7.gexpertise.fr/web/content/265802-630a58b/web.assets_backend.js, line 3726: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661434039309	Marionette	INFO	Stopped listening on port 50419
+1661434067058	geckodriver	INFO	Listening on 127.0.0.1:50515
+1661434070121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adziri\\AppData\\Local\\Temp\\rust_mozprofilep69NY2"
+1661434070356	Marionette	INFO	Marionette enabled
+1661434070359	Marionette	INFO	Listening on port 50526
+Read port: 50526
+WebDriver BiDi listening on ws://localhost:50516
+1661434070463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
